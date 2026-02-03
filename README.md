@@ -4,8 +4,8 @@ The notebooks accompany a series of blog posts published on Medium.
 
 Content
 
-- Part 1 — vbt_test_01.ipynb -- Setting the scene and getting started with vectorbt.
-Overview of core methods and parameters for:
+- Part 1 — vbt_test_01.ipynb
+  Setting the scene and getting started with vectorbt. Overview of core methods and parameters for:
   - Metric calculation
   - Plotting
   - Logging
