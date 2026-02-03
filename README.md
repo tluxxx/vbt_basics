@@ -4,24 +4,16 @@ The notebooks accompany a series of blog posts published on Medium.
 
 Content
 
-- Part 1 — vbt_test_01.ipynb
-Setting the scene and getting started with vectorbt.
+- Part 1 — vbt_test_01.ipynb -- Setting the scene and getting started with vectorbt.
 Overview of core methods and parameters for:
-
   - Metric calculation
-
   - Plotting
-
   - Logging
 
-Part 2 — vbt_test_02.ipynb
-Trade prices (default and modified) and the impact of parameters such as:
-
-size_type, size, min_size, max_size
-
-Fees and slippage
-
-Standard Stop Loss and Take Profit behavior
+- Part 2 — vbt_test_02.ipynb --Trade prices (default and modified) and the impact of parameters such as:
+  - size_type, size, min_size, max_size
+  - Fees and slippage
+  - Standard Stop Loss and Take Profit behavior
 
 Part 3 — vbt_test_03.ipynb
 Callback functions in vectorbt, including:
