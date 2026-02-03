@@ -4,15 +4,15 @@ The notebooks accompany a series of blog posts published on Medium.
 
 Content
 
-Part 1 — vbt_test_01.ipynb
+- Part 1 — vbt_test_01.ipynb
 Setting the scene and getting started with vectorbt.
 Overview of core methods and parameters for:
 
-Metric calculation
+  - Metric calculation
 
-Plotting
+  - Plotting
 
-Logging
+  - Logging
 
 Part 2 — vbt_test_02.ipynb
 Trade prices (default and modified) and the impact of parameters such as:
