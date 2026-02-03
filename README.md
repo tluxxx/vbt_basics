@@ -1,13 +1,66 @@
-The repo contains notebooks concerning the use of vectorbt (vbt) for backtesting, focussing on the vbt-internal class method portfolio.from_signals(). 
+The repository contains notebooks demonstrating the use of vectorbt (vbt) for backtesting, with a focus on the vbt-internal class method Portfolio.from_signals().
 
-The notebooks, refer to a series of blogs on medium.com
+The notebooks accompany a series of blog posts published on Medium.
 
-CONTENT: 
+Content
 
-Part 1: vbt_test_01.ipynb; Setting the scene, getting started with vbt, Overview on methods and parameters (for calculation of metrics, plotting, logging etc.)
-Part 2: vbt_test_02.ipynb; trade-prices (default/modified), impact of parameters as size_type, size, min_size, max_size, fees, slippage, standard StopLoss and TakeProfit-behaviour
-Part 3: vbt_test_03.ipynb; callback-functions in vbt, using callbacks for customizing Stops
-Part 4: vbt_test_04.ipynb; multiple orders per position, impact of accumulation, accept_partial, StopLoss and TakeProfit for multiple orders, ShortOnly trades, LongShort trades
-Part 5: vbt_test_05.ipynb; multi-ticker portfolio and standard outputs, cash distributions, cash-pooling (with and without order size limitations), groups of tickers, group-cash-pools (with and without order size-limitations), LongShortStrategies in multiticker-portfolios
-Part 6: vbt_test_06.ipynb; some use-cases as batch-testing of different strategies, optimisation of parameters of trading strategies, sector rotation, etc…
+Part 1 — vbt_test_01.ipynb
+Setting the scene and getting started with vectorbt.
+Overview of core methods and parameters for:
 
+Metric calculation
+
+Plotting
+
+Logging
+
+Part 2 — vbt_test_02.ipynb
+Trade prices (default and modified) and the impact of parameters such as:
+
+size_type, size, min_size, max_size
+
+Fees and slippage
+
+Standard Stop Loss and Take Profit behavior
+
+Part 3 — vbt_test_03.ipynb
+Callback functions in vectorbt, including:
+
+Using callbacks to customize stop logic
+
+Part 4 — vbt_test_04.ipynb
+Advanced order handling:
+
+Multiple orders per position
+
+Impact of accumulation and accept_partial
+
+Stop Loss and Take Profit with multiple orders
+
+Short-only and long–short trading
+
+Part 5 — vbt_test_05.ipynb
+Multi-ticker portfolios and advanced portfolio structures:
+
+Standard outputs and metrics
+
+Cash distribution and cash pooling
+
+Cash pooling with and without order size limitations
+
+Grouping of tickers
+
+Group-level cash pools
+
+Long–short strategies in multi-ticker portfolios
+
+Part 6 — vbt_test_06.ipynb
+Practical use cases:
+
+Batch testing of multiple strategies
+
+Parameter optimization
+
+Sector rotation
+
+And more
